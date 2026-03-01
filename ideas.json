@@ -116,5 +116,39 @@
     "variationOf": null,
     "expandedDescription": null,
     "userId": 5784
+  },
+  {
+    "id": "ede0240c-9930-4886-a07e-4fd1fdbfb079",
+    "name": "Family Pulse Hub",
+    "description": "A desktop hub that syncs family calendars, streams live neighborhood cams, and lets you organize photos, apps, and playlists on customizable shelves, using voice commands and gamified rewards to keep households coordinated, informed, and decluttered.",
+    "tags": [
+      "family",
+      "calendar",
+      "local",
+      "organizer"
+    ],
+    "emoji": "🏡",
+    "device": "Desktop App",
+    "author": {
+      "name": "BrightEcho",
+      "color": "#EF5350",
+      "initials": "BR",
+      "userId": 4086
+    },
+    "position": {
+      "x": -393.87997240857356,
+      "y": -374.76039072439016
+    },
+    "createdAt": 1772396273233,
+    "isForged": true,
+    "forgedFrom": [
+      "be3f84f8-c454-47b1-9bdd-e3573bcb3eb5",
+      "fcb60a84-6a2d-4d47-a2e2-95b9a09678ea",
+      "5d737d46-1ba6-4849-8a20-9f2c9be8d27b"
+    ],
+    "isVariation": false,
+    "variationOf": null,
+    "expandedDescription": null,
+    "userId": 4086
   }
 ]
