@@ -122,5 +122,35 @@
     "variationOf": null,
     "expandedDescription": null,
     "userId": 4086
+  },
+  {
+    "id": "98f0553c-10bf-4769-8b2f-8ba339eab001",
+    "name": "ZenNest",
+    "description": "ZenNest syncs lights, sound, temperature, and aromatherapy to your mood and schedule, creating a personalized smart sanctuary. AI‑driven routines guide relaxation, focus, or sleep, while seamless voice and sensor control keep your home calm and responsive—all from one intuitive mobile app.",
+    "tags": [
+      "home automation",
+      "wellness",
+      "ambient",
+      "mindfulness"
+    ],
+    "emoji": "🏡",
+    "device": "Mobile App",
+    "author": {
+      "name": "Bold Thunder",
+      "color": "#66BB6A",
+      "initials": "BT",
+      "userId": 6783
+    },
+    "position": {
+      "x": 170.31504834178202,
+      "y": -556.1014183915748
+    },
+    "createdAt": 1772399187390,
+    "isForged": false,
+    "forgedFrom": [],
+    "isVariation": false,
+    "variationOf": null,
+    "expandedDescription": null,
+    "userId": 6783
   }
 ]
