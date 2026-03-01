@@ -23,5 +23,30 @@
     "createdAt": 1772392191013,
     "isForged": false,
     "forgedFrom": []
+  },
+  {
+    "id": "820e598b-07f6-43d9-8348-911ff827448f",
+    "name": "Local Gem Explorer",
+    "description": "Explore unseen local spots from your couch: the app uses your phone’s location to surface nearby hidden restaurants, parks, art, and events, delivering short video tours and map navigation, letting you plan spontaneous outings directly from Android TV.",
+    "tags": [
+      "local",
+      "discovery",
+      "travel",
+      "tv"
+    ],
+    "emoji": "📍",
+    "device": "Android TV",
+    "author": {
+      "name": "Akhil",
+      "color": "#7E57C2",
+      "initials": "AK"
+    },
+    "position": {
+      "x": 92.11752698009721,
+      "y": 100.18585005301884
+    },
+    "createdAt": 1772392535929,
+    "isForged": false,
+    "forgedFrom": []
   }
 ]
