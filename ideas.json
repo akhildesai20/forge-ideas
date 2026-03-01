@@ -88,5 +88,35 @@
     "isVariation": false,
     "variationOf": null,
     "expandedDescription": null
+  },
+  {
+    "id": "fcb60a84-6a2d-4d47-a2e2-95b9a09678ea",
+    "name": "Local Live Lens",
+    "description": "Turn your Android TV into a window to your neighborhood. Using your phone’s GPS, the app streams live webcam feeds, micro‑news, and real‑time updates from nearby cafés, parks, and streets, letting you watch the community pulse and discover places before you go.",
+    "tags": [
+      "live",
+      "local",
+      "community",
+      "tv"
+    ],
+    "emoji": "📺",
+    "device": "Android TV",
+    "author": {
+      "name": "Akhil",
+      "color": "#9CCC65",
+      "initials": "AK",
+      "userId": 5784
+    },
+    "position": {
+      "x": -599.4043989716625,
+      "y": -597.2233790997171
+    },
+    "createdAt": 1772394173453,
+    "isForged": false,
+    "forgedFrom": [],
+    "isVariation": true,
+    "variationOf": "820e598b-07f6-43d9-8348-911ff827448f",
+    "expandedDescription": null,
+    "userId": 5784
   }
 ]
