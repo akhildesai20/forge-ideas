@@ -17,8 +17,8 @@
       "initials": "AK"
     },
     "position": {
-      "x": -408.1628927516951,
-      "y": -282.76883700545096
+      "x": -575.9503599450485,
+      "y": -252.4196572054141
     },
     "createdAt": 1772392191013,
     "isForged": false,
@@ -42,11 +42,39 @@
       "initials": "AK"
     },
     "position": {
-      "x": -94.89164341579155,
-      "y": -315.6601408253097
+      "x": -144.531265852105,
+      "y": -297.47582814253076
     },
     "createdAt": 1772392535929,
     "isForged": false,
     "forgedFrom": []
+  },
+  {
+    "id": "f3bbdb41-efdd-4763-b4aa-aae18f495ae8",
+    "name": "HomeHub Explorer",
+    "description": "HomeHub Explorer turns your Android TV into a shared family hub that syncs calendars, shows reminders, and lets you discover nearby hidden restaurants, parks, and events—all via voice. Plan outings, add events, and watch short video tours right on the big screen, keeping everyone coordinated and inspired.",
+    "tags": [
+      "family",
+      "calendar",
+      "local-discovery",
+      "android-tv"
+    ],
+    "emoji": "📺",
+    "device": "Android TV",
+    "author": {
+      "name": "Akhil",
+      "color": "#7E57C2",
+      "initials": "AK"
+    },
+    "position": {
+      "x": 175.1299689053787,
+      "y": -291.92648608696675
+    },
+    "createdAt": 1772392604484,
+    "isForged": true,
+    "forgedFrom": [
+      "be3f84f8-c454-47b1-9bdd-e3573bcb3eb5",
+      "820e598b-07f6-43d9-8348-911ff827448f"
+    ]
   }
 ]
