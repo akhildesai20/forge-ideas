@@ -89,13 +89,11 @@
   },
   {
     "id": "5d737d46-1ba6-4849-8a20-9f2c9be8d27b",
-    "name": "Satisfy Sort TV",
-    "description": "A visual, gamified organizer for Android TV that lets you drag and drop photos, apps, and playlists into custom shelves, rewarding you with soothing animations and points, turning household digital clutter into a satisfying, tactile experience you can enjoy from your couch.",
+    "name": "ShelfPlay",
+    "description": "Gamified Android TV organizer that lets you drag photos, apps, and playlists into custom shelves, earning points and soothing animations.",
     "tags": [
-      "organization",
-      "gamification",
-      "tv",
-      "productivity"
+      "productivity",
+      "gaming"
     ],
     "emoji": "📺",
     "device": "Android TV",
