@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "be3f84f8-c454-47b1-9bdd-e3573bcb3eb5",
+    "name": "Family TV Planner",
+    "description": "Shows a shared household calendar on Android TV, syncing events from Google, Outlook, and iOS. Voice commands add or modify events, while reminders appear as on‑screen alerts, keeping families coordinated without checking phones.",
+    "tags": [
+      "calendar",
+      "family",
+      "tv",
+      "productivity"
+    ],
+    "emoji": "📅",
+    "device": "Android TV",
+    "author": {
+      "name": "Akhil",
+      "color": "#7E57C2",
+      "initials": "AK"
+    },
+    "position": {
+      "x": 54.68434162749815,
+      "y": 57.95097982621171
+    },
+    "createdAt": 1772392191013,
+    "isForged": false,
+    "forgedFrom": []
+  }
+]
