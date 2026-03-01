@@ -152,5 +152,35 @@
     "variationOf": null,
     "expandedDescription": null,
     "userId": 6783
+  },
+  {
+    "id": "25fbd15a-d0b4-46bb-9299-05b81d9113d4",
+    "name": "Silent Budget",
+    "description": "A mobile app that auto‑categorizes spending from linked accounts, shows only net cash‑flow, and alerts only when you drift, so budgeting works in the background without manual entry.",
+    "tags": [
+      "finance",
+      "automation",
+      "personal",
+      "budgeting"
+    ],
+    "emoji": "💰",
+    "device": "Mobile App",
+    "author": {
+      "name": "Bright Spark",
+      "color": "#EF5350",
+      "initials": "BS",
+      "userId": 9616
+    },
+    "position": {
+      "x": -252.2807958020711,
+      "y": -5.390055379948002
+    },
+    "createdAt": 1772399797467,
+    "isForged": false,
+    "forgedFrom": [],
+    "isVariation": false,
+    "variationOf": null,
+    "expandedDescription": null,
+    "userId": 9616
   }
 ]
