@@ -90,34 +90,6 @@
     "userId": 5784
   },
   {
-    "id": "5d737d46-1ba6-4849-8a20-9f2c9be8d27b",
-    "name": "ShelfPlay",
-    "description": "Gamified Android TV organizer that lets you drag photos, apps, and playlists into custom shelves, earning points and soothing animations.",
-    "tags": [
-      "productivity",
-      "gaming"
-    ],
-    "emoji": "📺",
-    "device": "Android TV",
-    "author": {
-      "name": "Akhil",
-      "color": "#9CCC65",
-      "initials": "AK",
-      "userId": 5784
-    },
-    "position": {
-      "x": -312.1582532339194,
-      "y": -40.56761110758043
-    },
-    "createdAt": 1772394689684,
-    "isForged": false,
-    "forgedFrom": [],
-    "isVariation": false,
-    "variationOf": null,
-    "expandedDescription": null,
-    "userId": 5784
-  },
-  {
     "id": "ede0240c-9930-4886-a07e-4fd1fdbfb079",
     "name": "Family Pulse Hub",
     "description": "A desktop hub that syncs family calendars, streams live neighborhood cams, and lets you organize photos, apps, and playlists on customizable shelves, using voice commands and gamified rewards to keep households coordinated, informed, and decluttered.",
