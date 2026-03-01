@@ -58,38 +58,6 @@
     "expandedDescription": null
   },
   {
-    "id": "f3bbdb41-efdd-4763-b4aa-aae18f495ae8",
-    "name": "HomeHub Explorer",
-    "description": "HomeHub Explorer turns your Android TV into a shared family hub that syncs calendars, shows reminders, and lets you discover nearby hidden restaurants, parks, and events—all via voice. Plan outings, add events, and watch short video tours right on the big screen, keeping everyone coordinated and inspired.",
-    "tags": [
-      "family",
-      "calendar",
-      "local-discovery",
-      "android-tv"
-    ],
-    "emoji": "📺",
-    "device": "Android TV",
-    "author": {
-      "name": "Akhil",
-      "color": "#7E57C2",
-      "initials": "AK",
-      "userId": null
-    },
-    "position": {
-      "x": -42.09810751722267,
-      "y": -367.0006377065001
-    },
-    "createdAt": 1772392604484,
-    "isForged": true,
-    "forgedFrom": [
-      "be3f84f8-c454-47b1-9bdd-e3573bcb3eb5",
-      "820e598b-07f6-43d9-8348-911ff827448f"
-    ],
-    "isVariation": false,
-    "variationOf": null,
-    "expandedDescription": null
-  },
-  {
     "id": "fcb60a84-6a2d-4d47-a2e2-95b9a09678ea",
     "name": "Local Live Lens",
     "description": "Turn your Android TV into a window to your neighborhood. Using your phone’s GPS, the app streams live webcam feeds, micro‑news, and real‑time updates from nearby cafés, parks, and streets, letting you watch the community pulse and discover places before you go.",
