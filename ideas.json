@@ -182,5 +182,35 @@
     "variationOf": null,
     "expandedDescription": null,
     "userId": 9616
+  },
+  {
+    "id": "8c174ded-99e0-443b-9407-c4129dcfa6b8",
+    "name": "Family Pulse",
+    "description": "Family Pulse is a mobile hub that merges calendars, chores, meals, and location updates into a single AI‑driven daily briefing. It auto‑suggests task assignments, prompts grocery orders, and sends subtle reminders, keeping every member aware without endless group chats.",
+    "tags": [
+      "family",
+      "productivity",
+      "organization",
+      "communication"
+    ],
+    "emoji": "👪",
+    "device": "Mobile App",
+    "author": {
+      "name": "Bright Spark",
+      "color": "#EF5350",
+      "initials": "BS",
+      "userId": 9616
+    },
+    "position": {
+      "x": -204.48362854265253,
+      "y": 28.014583462392956
+    },
+    "createdAt": 1772399810265,
+    "isForged": false,
+    "forgedFrom": [],
+    "isVariation": false,
+    "variationOf": null,
+    "expandedDescription": null,
+    "userId": 9616
   }
 ]
