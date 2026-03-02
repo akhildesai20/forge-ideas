@@ -242,5 +242,38 @@
     "variationOf": null,
     "expandedDescription": null,
     "userId": 3645
+  },
+  {
+    "id": "5b6b3c28-5ede-4dd0-b31e-c3ff81a1e21d",
+    "name": "Festive Family Hub",
+    "description": "A mobile AI hub that blends family scheduling, chores, meals, and location with cultural festival planning. It auto‑suggests tasks, grocery orders, and festive recipes, outfits, and local events, delivering daily briefings that keep households organized and celebration‑ready without endless chats.",
+    "tags": [
+      "family",
+      "festival",
+      "organizer",
+      "AI"
+    ],
+    "emoji": "🎉",
+    "device": "Mobile App",
+    "author": {
+      "name": "Lucky Flame",
+      "color": "#FFA726",
+      "initials": "LF",
+      "userId": 3645
+    },
+    "position": {
+      "x": 1206.399898090815,
+      "y": -229.385890503989
+    },
+    "createdAt": 1772426532623,
+    "isForged": true,
+    "forgedFrom": [
+      "8c174ded-99e0-443b-9407-c4129dcfa6b8",
+      "295fab8a-640f-475d-a96d-3d045684fa8a"
+    ],
+    "isVariation": false,
+    "variationOf": null,
+    "expandedDescription": null,
+    "userId": 3645
   }
 ]
